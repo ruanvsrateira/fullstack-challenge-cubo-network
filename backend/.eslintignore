@@ -1,0 +1,6 @@
+./dist
+./src/database
+node_modules
+
+/*.js
+/*.env
